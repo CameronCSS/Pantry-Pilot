@@ -9,7 +9,7 @@
 #### [Video Demo](<https://www.youtube.com/watch?v=OztMCgm2H9A>)
 
 > [!IMPORTANT] 
-> #### You can create an account and try the BETA [HERE](https://w4d.camcodes.dev/login)
+> #### You can create an account and try the BETA [HERE](https://pantry-pilot.com)
 > #### <sup>*Note: I may shut off registrations if it gets too busy*</sup>
 
 
