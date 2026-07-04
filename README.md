@@ -1,19 +1,18 @@
 <a name="readme-top"></a>
 
-# 🛒 Pantry Pilot
+<img width="1025" height="278" alt="pantrypilotwordslogo" src="https://github.com/user-attachments/assets/6b7c54c9-008b-4ac0-ac8a-2bb049c93364" />
+
 
 ### Preview 
 
 ![image](https://github.com/user-attachments/assets/7a31e98a-eeb9-460d-8456-184c76facbc5)
 
-#### [Video Demo](<https://www.youtube.com/watch?v=OztMCgm2H9A>)
 
 > [!IMPORTANT] 
-> #### You can create an account and try the BETA [HERE](https://pantry-pilot.com)
-> #### <sup>*Note: I may shut off registrations if it gets too busy*</sup>
+> #### [Video Demo](<https://www.youtube.com/watch?v=OztMCgm2H9A>)
 
 
-## Pantry Pilot
+# 🛒 Pantry Pilot
 
 ### We’ve all faced the age-old question: *"What's for dinner?"* 
 
