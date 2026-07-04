@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# 🛒 What's 4 Dinner
+# 🛒 Pantry Pilot
 
 ### Preview 
 
@@ -13,7 +13,7 @@
 > #### <sup>*Note: I may shut off registrations if it gets too busy*</sup>
 
 
-## Overview
+## Pantry Pilot
 
 ### We’ve all faced the age-old question: *"What's for dinner?"* 
 
@@ -23,7 +23,7 @@ Every single day we have to check the fridge, check your pantry, decide what we 
 
 ### My Solution
 
-**What's 4 Dinner** is a web app designed to simplify both meal planning and shopping:
+**Pantry Pilot** is a web app designed to simplify both meal planning and shopping:
 
 - **Random Recipe Selector**: When you can't decide what to cook, let the app pick recipes for you.
 - **Streamlined Shopping**: Map your store's aisles once, and your shopping list will be automatically sorted for a easier shopping experience.
