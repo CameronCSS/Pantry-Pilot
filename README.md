@@ -1,12 +1,18 @@
 <a name="readme-top"></a>
 
-<img width="1025" height="278" alt="pantrypilotwordslogo" src="https://github.com/user-attachments/assets/6b7c54c9-008b-4ac0-ac8a-2bb049c93364" />
+<div align="center">
+
+<img width="400" alt="pantrypilotwordslogo" src="https://github.com/user-attachments/assets/6b7c54c9-008b-4ac0-ac8a-2bb049c93364" />
 
 
-### Preview 
+### Website Preview 
 
-![image](https://github.com/user-attachments/assets/7a31e98a-eeb9-460d-8456-184c76facbc5)
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f30e1e6f-4199-48eb-9a6d-aa0b67e4484b" />
+
+</div>
+
+<hr>
 
 > [!IMPORTANT] 
 > #### [Video Demo](<https://www.youtube.com/watch?v=OztMCgm2H9A>)
